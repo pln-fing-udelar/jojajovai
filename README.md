@@ -20,7 +20,7 @@ libro_gn  |  1,423 |    992 |   215 |   216
 libro_td  |  1,016 |    711 |   153 |   152
 seminario |  2,179 |  1,535 |   322 |   322
 spl       |  4,788 |  3,348 |   720 |   720
-Total     | 3,0855 | 2,0207 | 5,314 | 5,334
+Total     | 30,855 | 20,207 | 5,314 | 5,334
 
 The file `jojajovai_all.csv` contains the data of the corpus.
 
